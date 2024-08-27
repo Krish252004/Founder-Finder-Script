@@ -35,15 +35,15 @@ The script will read the company names from the CSV file and output the founder'
 
 Welcome to the Company Founder Finder!
 
-Searching for Google...
-Founder of Google: Larry Page, Sergey Brin
+- Searching for Google...
+- Founder of Google: Larry Page, Sergey Brin
 
-Searching for Microsoft...
-Founder of Microsoft: Bill Gates, Paul Allen
+- Searching for Microsoft...
+- Founder of Microsoft: Bill Gates, Paul Allen
 
 ## Limitations
-The script relies on Wikipedia for data, so the accuracy depends on the quality of the information available on Wikipedia.
-The script currently searches for only the first matching Wikipedia page, which may not always be the correct one.
+- The script relies on Wikipedia for data, so the accuracy depends on the quality of the information available on Wikipedia.
+- The script currently searches for only the first matching Wikipedia page, which may not always be the correct one.
 
 ## Future Improvements
 - **Expand Sources**: Incorporate other reliable sources such as Crunchbase or LinkedIn to enhance data accuracy.
